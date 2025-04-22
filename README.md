@@ -9,7 +9,7 @@
 - ⚡ Fun fact: i'm learning to code by building some projects
 
 ## About Me
-i'm currently studying Information Technology and seeking an attachment opportunity to put my skills into practice. I love turning ideas into clean, responsive web experiences and learning new technologies every day
+I'm an IT student passionate about crafting responsive; user-friendly web experiences. Skilled in HTML, CSS, JavaScript, PHP, C++, VB.NET, SQL/MySQL, Git and VS Code. I thrive on learning new technologies and applying best practice for clean, maintanable code. Currently seeking an attachment oppotunity to grow in a collaborative, real-world environment. I enjoy tackling coding challenges and honing my problem-solving  skills daily. Focused on both frontend and backend to build full-stack solutions. Eager to contibute to team projects and continually expand my technical experties 
   
 
 
