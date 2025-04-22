@@ -4,7 +4,6 @@
 - 🌱 I’m currently **learning bootstrap**
 - 👯 I’m looking to collaborate on **Front-end and Back-end Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me: **tmatsikidze00@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i'm learning to code by building some projects
 
