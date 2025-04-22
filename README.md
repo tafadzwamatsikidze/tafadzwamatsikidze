@@ -1,4 +1,4 @@
-## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=tafadzwamatsikidze&icon=4&color=0)](https://visitcount.itsvg.in)
+## Hi there 👋[![](https://visitcount.itsvg.in/api?id=tafadzwamatsikidze&icon=4&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Portfolio website and To Do app projects**
 - 🌱 I’m currently **learning bootstrap**
